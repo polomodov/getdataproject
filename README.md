@@ -2,7 +2,7 @@ Explanation
 =================
 Pre
 -------
-* You should set wd to current file
+* You should set wd to directory with run_analysis.R file
 * Require reshape2
 
 Steps  of algorythm
